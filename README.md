@@ -4,12 +4,6 @@
 Imaginaire is a [pytorch](https://pytorch.org/) library that contains
 optimized implementation of several image and video synthesis methods developed at [NVIDIA](https://www.nvidia.com/en-us/).
 
-## What's inside?
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/jgTX5OnAsYQ/0.jpg)](http://www.youtube.com/watch?v=jgTX5OnAsYQ "Imaginaire")
-
-We have a tutorial for each model. Click on the model name, and your browser should take you to the tutorial page for the project.
-
 ## What to Do?
 We have a plan to add all the image-to-image translation models.
 
