@@ -1,4 +1,4 @@
-# Imaginaire
+# Imaginaire-I2I
 ### [Docs](http://deepimagination.cc/) | [License](LICENSE.md) | [Installation](INSTALL.md) | [Model Zoo](MODELZOO.md)
 
 Imaginaire is a [pytorch](https://pytorch.org/) library that contains
